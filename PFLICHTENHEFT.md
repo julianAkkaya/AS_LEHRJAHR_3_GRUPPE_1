@@ -25,7 +25,7 @@
   Zur Datenverwaltung nutzen wir den folgenden Dienst: MySQL
 
   ### ER-Modell
-  ![ER-Modell](https://raw.githubusercontent.com/Bontah/AS_Lehrjahr_3/master/ER-Modell.png "ER-Modell")
+  ![ER-Modell](https://github.com/Bontah/AS_LEHRJAHR_3_GRUPPE_1/blob/master/ER-Modell.png?raw=true "ER-Modell")
   
 ###### Pflichtenheft von:
 ###### Michael Lorenz, Dennis Plettner, Julian Akkaya
