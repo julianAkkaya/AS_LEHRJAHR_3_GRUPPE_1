@@ -25,7 +25,7 @@
   MS-5 | Vorführung der Software | Softwareprodukt, zweite Doku | (vorletzter Turnus des Jahres)
 
   ### Verwendete Datenbanken
-  Zur Datenverwaltung nutzen wir den folgenden Dienst: MySQL
+  Zur Datenverwaltung nutzen wir den folgenden Dienst: MySQL<br>
   Dieser wird auf einem von uns zu verwaltendem Server installiert.
 
   ### ER-Modell
