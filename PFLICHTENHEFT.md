@@ -18,11 +18,14 @@
   Nr. | Beschreibung | Zwischenprodukt | Datum
   ---- | ---- | ---- | ----
   MS-1 | Anforderungsanalyse | Erste Dokumentation | 11.10.2017
-  MS-2 | ---- | ---- | ----
-  MS-x | Vorführung der Software | Softwareprodukt, zweite Doku | (vorletzter Turnus)
+  MS-2 | Austausch von Daten | erste Konsolenanwendung | 18.10.2017
+  MS-3 | Funktionierende Interfaces | Interfaces | 20.10.2017
+  MS-4 | Funktionstüchtiges GUI Layout | GUI | 31.10.2017
+  MS-5 | Vorführung der Software | Softwareprodukt, zweite Doku | (vorletzter Turnus des Jahres)
 
   ### Verwendete Datenbanken
   Zur Datenverwaltung nutzen wir den folgenden Dienst: MySQL
+  
 
   ### ER-Modell
   ![ER-Modell](https://github.com/Bontah/AS_LEHRJAHR_3_GRUPPE_1/blob/master/ER-Modell.png?raw=true "ER-Modell")
