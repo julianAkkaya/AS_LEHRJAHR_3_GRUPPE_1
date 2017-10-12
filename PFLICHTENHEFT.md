@@ -1,8 +1,8 @@
 # Pflichtenheft
   ### Team-/Arbeitsaufteilung
-  Name | Michael Lorenz | Julian Akkaya | Dennis Plettner
+  Name | Datenhaltung | Backend | Frontend
   ---- | ---- | ---- | ----
-  Aufgabenbereich | Datenhaltung | Backend | Frontend
+   | Michael Lorenz | Julian Akkaya | Dennis Plettner
 
   ### GUI- und Konsolenskizze
   Content
