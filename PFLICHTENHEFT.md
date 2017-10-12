@@ -1,6 +1,6 @@
 # Pflichtenheft der Gruppe ( 1 )
   ### Team-/Arbeitsaufteilung
-  Bereich | Datenhaltung | Backend | Frontend
+  Bereich | Datenhaltung I + II | Fachkonzept I | Fachkonzept II
   ---- | ---- | ---- | ----
   Name | Michael Lorenz | Julian Akkaya | Dennis Plettner
   Geschätzter<br> Arbeitsteil ( in % ) | 30% | 40% | 30%
