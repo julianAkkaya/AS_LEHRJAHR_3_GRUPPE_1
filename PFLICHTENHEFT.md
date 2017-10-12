@@ -4,7 +4,11 @@
   ---- | ---- | ---- | ----
   Name | Michael Lorenz | Julian Akkaya | Dennis Plettner
   Geschätzter<br> Arbeitsteil ( in % ) | 30% | 40% | 30%
-
+  
+  ### Aufgabenstellung
+  Das Programm soll in der Lage sein, Linien zu den verschiedenen Bahnhöfen hinzuzufügen und diese auch zu Sperren oder zu Löschen.<br>
+  Ausserdem soll man einen Bahnhof auswählen und die dazu gehörigen Linien sehen zu können.
+  
   ### GUI- und Konsolenskizze
   Content
 
