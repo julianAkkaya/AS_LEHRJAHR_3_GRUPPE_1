@@ -1,4 +1,4 @@
-# Pflichtenheft
+# Pflichtenheft der Gruppe ( 1 )
   ### Team-/Arbeitsaufteilung
   Bereich | Datenhaltung | Backend | Frontend
   ---- | ---- | ---- | ----
