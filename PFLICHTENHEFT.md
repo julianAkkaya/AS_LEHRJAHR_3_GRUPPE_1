@@ -17,7 +17,7 @@
   
   ### GUI- und Konsolenskizze
   ![Konsolenskizze](https://github.com/Bontah/AS_LEHRJAHR_3_GRUPPE_1/blob/master/Command_Prompt_on_Windows_10_RTM.png?raw=true "Konsolenskizze")    
-  ![GUI-Skizze](https://github.com/Bontah/AS_LEHRJAHR_3_GRUPPE_1/blob/master/Gui.png?raw=true "GUI-Skizze")
+  ![GUI-Skizze](https://github.com/Bontah/AS_LEHRJAHR_3_GRUPPE_1/blob/master/GUI-Wireframe.png?raw=true "GUI-Skizze")
 
   ### Mögliche Testszenarien
   Nr. | Beschreibung 
