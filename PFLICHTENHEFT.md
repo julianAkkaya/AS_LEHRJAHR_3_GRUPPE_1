@@ -16,7 +16,7 @@
   T03 | Löschen der Datensätze per GUI und TUI
   T04 | Ausgabe von Bahnhöfen nach Linien GUI und TUI
   T05 | Ausgabe von Linien nach Bahnhöfen GUI und TUI
-  T05 | Ausgabe aller Datensätze
+  T06 | Ausgabe aller Datensätze
 
   ### Meilensteine
   Nr. | Beschreibung | Zwischenprodukt | Datum
