@@ -45,7 +45,7 @@
   Dieser wird auf einem von uns zu verwaltendem Server installiert.
 
   ### ER-Modell
-  ![ER-Modell](https://github.com/Bontah/AS_LEHRJAHR_3_GRUPPE_1/blob/master/ER-Diagramm-Bahnhoefe-Linien.jpg?raw=true "ER-Modell")
+  ![ER-Modell](https://github.com/Bontah/AS_LEHRJAHR_3_GRUPPE_1/blob/master/ER-Diagramm-Bahnhoefe-Linien_2.jpg?raw=true "ER-Modell")
 
 ###### Pflichtenheft von:
 ###### Michael Lorenz, Dennis Plettner, Julian Akkaya
