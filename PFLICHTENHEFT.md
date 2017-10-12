@@ -28,14 +28,17 @@
   T05 | Ausgabe von Linien nach Bahnhöfen GUI und TUI
   T06 | Ausgabe aller Datensätze
 
-  ### Meilensteine
+ ### Meilensteine
   Nr. | Beschreibung | Zwischenprodukt | Datum
   ---- | ---- | ---- | ----
-  MS-1 | Anforderungsanalyse | Erste Dokumentation | 11.10.2017
-  MS-2 | Austausch von Daten | erste Konsolenanwendung | 18.10.2017
-  MS-3 | Funktionierende Interfaces | Interfaces | 20.10.2017
-  MS-4 | Funktionstüchtiges GUI Layout | GUI | 31.10.2017
-  MS-5 | Vorführung der Software | Softwareprodukt, zweite Doku | (vorletzter Turnus des Jahres)
+  MS-1 | Anforderungsanalyse, schreiben des Pflichtenhefts | Pflichtenheft | 12.10.2017
+  MS-2 | Implemtierung der TUI | Konsolenanwendung | 22.10.2017
+  MS-3 | Aufsetzen der Datenbank und Test Daten einpflegen | Datenbank | 20.10.2017
+  MS-4 | Implementierung des GUI Layouts | GUI | 26.10.2017
+  MS-5 | Einzelkomponenten zusammen führen | TUI und GUI anwendung | 09.11.2017
+  MS-6 | Testen | Fertiges Produkt | (Ende der vorletzten Schuldwoche)
+  MS-7 | Vorstellen des fertigen Produkts | (Ende der vorletzten Schuldwoche)
+
 
   ### Verwendete Datenbanken
   Zur Datenverwaltung nutzen wir den folgenden Dienst: MySQL<br>
