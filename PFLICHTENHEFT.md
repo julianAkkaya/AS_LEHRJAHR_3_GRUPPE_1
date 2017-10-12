@@ -10,9 +10,9 @@
   ### Mögliche Testszenarien
   Nr. | Beschreibung | Zwischenprodukt | Datum
   ---- | ---- | ---- | ----
-  ---- | ---- | ---- | ----
-  ---- | ---- | ---- | ----
-  ---- | ---- | ---- | ----
+  T01 | Verbindungen zur Datenbank? | Angelegtes Projekt | 13.10.2017
+  T02 | Sind die Inputs funktionsfähig? | Erste Eingabemöglichkeiten | 20.10.2017
+  T03 | Input Exceptionhandling? | Funktionierende Eingaben | 25.10.2017
 
   ### Meilensteine
   Nr. | Beschreibung | Zwischenprodukt | Datum
@@ -25,7 +25,7 @@
 
   ### Verwendete Datenbanken
   Zur Datenverwaltung nutzen wir den folgenden Dienst: MySQL
-  
+  Dieser wird auf einem von uns zu verwaltendem Server installiert.
 
   ### ER-Modell
   ![ER-Modell](https://github.com/Bontah/AS_LEHRJAHR_3_GRUPPE_1/blob/master/ER-Modell.png?raw=true "ER-Modell")
