@@ -9,11 +9,14 @@
   Content
 
   ### Mögliche Testszenarien
-  Nr. | Beschreibung | Zwischenprodukt | Datum
-  ---- | ---- | ---- | ----
-  T01 | Verbindungen zur Datenbank? | Angelegtes Projekt | 13.10.2017
-  T02 | Sind die Inputs funktionsfähig? | Erste Eingabemöglichkeiten | 20.10.2017
-  T03 | Input Exceptionhandling? | Funktionierende Eingaben | 25.10.2017
+  Nr. | Beschreibung 
+  ---- | ----
+  T01 | Hinzufügen von Datensätzen per GUI und TUI 
+  T02 | Bearbeiten der Datensätze per GUI und TUI 
+  T03 | Löschen der Datensätze per GUI und TUI
+  T04 | Ausgabe von Bahnhöfen nach Linien GUI und TUI
+  T05 | Ausgabe von Linien nach Bahnhöfen GUI und TUI
+  T05 | Ausgabe aller Datensätze
 
   ### Meilensteine
   Nr. | Beschreibung | Zwischenprodukt | Datum
