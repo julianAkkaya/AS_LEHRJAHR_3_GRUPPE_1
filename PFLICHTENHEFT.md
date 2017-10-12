@@ -6,8 +6,14 @@
   Geschätzter<br> Arbeitsteil ( in % ) | 30% | 40% | 30%
   
   ### Aufgabenstellung
-  Das Programm soll in der Lage sein, Linien zu den verschiedenen Bahnhöfen hinzuzufügen und diese auch zu Sperren oder zu Löschen.<br>
-  Ausserdem soll man einen Bahnhof auswählen und die dazu gehörigen Linien sehen zu können.
+  Das Programm soll in der Lage sein, Linien zu den verschiedenen Bahnhöfen hinzuzufügen
+  <br> 
+  und diese auch zu Sperren oder zu entfernen.
+  <br><br>
+  Ausserdem soll man einen Bahnhof auswählen und die dazu gehörigen Linien sehen zu können. 
+  <br>
+  In dieser Übersicht sollen ebenfalls ON/OFF Switches zu sehen sein, 
+  <br>welche eine Linie entweder Sperren oder freischalten können sollen.
   
   ### GUI- und Konsolenskizze
   Content
