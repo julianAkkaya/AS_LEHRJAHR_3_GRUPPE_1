@@ -6,14 +6,14 @@
   Geschätzter<br> Arbeitsteil ( in % ) | 30% | 40% | 30%
   
   ### Aufgabenstellung
-  Das Programm soll in der Lage sein, Linien zu den verschiedenen Bahnhöfen hinzuzufügen
+  Das Programm soll in der Lage sein, Linien zu den verschiedenen Bahnhöfen\\ hinzuzufügen
   <br> 
   und diese auch zu Sperren oder zu entfernen.
   <br><br>
   Ausserdem soll man einen Bahnhof auswählen und die dazu gehörigen Linien sehen zu können. 
   <br>
-  In dieser Übersicht sollen ebenfalls ON/OFF Switches zu sehen sein, 
-  <br>welche eine Linie entweder Sperren oder freischalten können sollen.
+  In der GUI gibt es ON/OFF Switches die Bahnhöfe Öffnen oder Freischalten können.
+  Eine Linie wird als gespeert ausgegeben wenn alle Bahnhöfe diser Linie gespert sind.
   
   ### GUI- und Konsolenskizze
   Content
@@ -26,6 +26,7 @@
   T03 | Löschen der Datensätze per GUI und TUI
   T04 | Ausgabe von Bahnhöfen nach Linien GUI und TUI
   T05 | Ausgabe von Linien nach Bahnhöfen GUI und TUI
+  T05 | Bahnhöfe sollen gespeert und geöffnet werden können.
   T06 | Ausgabe aller Datensätze
 
  ### Meilensteine
