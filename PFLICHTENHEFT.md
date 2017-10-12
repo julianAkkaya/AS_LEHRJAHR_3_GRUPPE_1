@@ -3,6 +3,7 @@
   Bereich | Datenhaltung | Backend | Frontend
   ---- | ---- | ---- | ----
   Name | Michael Lorenz | Julian Akkaya | Dennis Plettner
+  Geschätzter Arbeitsteil ( in % ) | 30% | 40% | 30%
 
   ### GUI- und Konsolenskizze
   Content
