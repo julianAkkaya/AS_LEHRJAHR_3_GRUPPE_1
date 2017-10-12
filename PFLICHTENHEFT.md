@@ -30,8 +30,9 @@
 
   ### ER-Modell
   ![ER-Modell](https://github.com/Bontah/AS_LEHRJAHR_3_GRUPPE_1/blob/master/ER-Modell-2.png?raw=true "ER-Modell")
-  
-###### Pflichtenheft von:
-###### Michael Lorenz, Dennis Plettner, Julian Akkaya
-###### Gruppenummer ( 1 )
 
+<div style="width:100%; text-align: right;">
+  ###### Pflichtenheft von:
+  ###### Michael Lorenz, Dennis Plettner, Julian Akkaya
+  ###### Gruppenummer ( 1 )
+</div>
